@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333577222046",
+    "project_id": "self-tags",
+    "storage_bucket": "self-tags.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333577222046:android:7432719a8d4ee17540088f",
+        "android_client_info": {
+          "package_name": "com.example.self_tags"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrpFL61eusPHIqP8bTuW1Ctq-nywmAunw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
